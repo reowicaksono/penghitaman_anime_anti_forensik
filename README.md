@@ -25,3 +25,8 @@ To run tests, run the following command
 
 - [@reowicaksono](https://www.github.com/reowicaksono)
 
+![Sebelum](https://github.com/reowicaksono/penghitaman_anime_anti_forensik/assets/93186792/26ef9d42-8e1c-46ec-b7d0-9b83f201e096)
+![Sesudah](https://github.com/reowicaksono/penghitaman_anime_anti_forensik/assets/93186792/356dcc65-3471-43a0-b86b-9b9499bba370)
+
+
+

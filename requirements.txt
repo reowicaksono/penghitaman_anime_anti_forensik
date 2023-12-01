@@ -1,0 +1,3 @@
+# Install ExifTool
+!apt-get install libimage-exiftool-perl
+pip install opencv-python
